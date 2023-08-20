@@ -1,0 +1,43 @@
+.backgroundColor{
+    -fx-background-color: linear-gradient(to right bottom,#61D8DE, #E839f6);
+}
+
+.button{
+    -fx-background-color: #07f7f7;
+    -fx-background-radius: 0 30 0 30;
+    -fx-font-family: "sans-serif"
+}
+
+.button:hover{
+    -fx-background-color: #239c9c;
+    -fx-background-radius: 0 30 0 30;
+}
+
+.label{
+    -fx-font-family: "sans-serif";
+}
+
+.text-field{
+    -fx-background-color: #cff4d2;
+}
+
+.table-view{
+    -fx-background-color: #cff4d2;
+    -fx-border-color: linear-gradient(to left bottom,#61D8DE, #E839f6);
+}
+
+.table-view .column-header{
+    -fx-background-color: white;
+}
+
+.table-row-cell{
+    -fx-background-color: transparent;
+}
+
+.calendar-grid {
+    -fx-background-color: linear-gradient(to left bottom,#61D8DE, #E839f6);
+}
+
+.combo-box .list-cell{
+    -fx-background-color: #cff4d2;
+}

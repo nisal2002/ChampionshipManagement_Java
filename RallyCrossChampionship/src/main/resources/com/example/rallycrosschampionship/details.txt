@@ -1,0 +1,5 @@
+lucas,hudson,30,alpha,ford,550
+nisal,pitiduwa,21,beta,benz,1000
+ali,carter,27,delta,ferrari,600
+dreak,jackson,25,alpha,tesla,700
+henry,mason,22,alpha,benz,500
